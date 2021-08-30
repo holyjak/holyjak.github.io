@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+## Jakub Holý @ Holy Dev
 
-You can use the [editor on GitHub](https://github.com/holyjak/holyjak.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hello! My name is Jakub Holý and I am a full-stack Clojure(Script) developer by day and a pair-programming partner for hire by night via my company Holy Dev. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/holyjak/holyjak.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I like to learn and think and I share a lot of that at [my blog, Holy on Dev](https://blog.jakubholy.net/), which is my primary presence on the internets and where you can also [learn more about me](https://blog.jakubholy.net/me/), should you be so inclined.
