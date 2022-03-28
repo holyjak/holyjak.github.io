@@ -14,6 +14,16 @@ _<sup>*</sup> The amount is slightly higher than my salary, to justify both to m
 
 ![testimonial from Gene Kim, 2020](/assets/img/codementor-review-gene.png)
 
+**Alex Eberts, developer, March 2022**:
+
+> It is my sincere pleasure to recommend Jakub to anyone interested in quickly leveling-up their Clojure and Fulcro knowledge.
+> 
+> Jakub brings a great understanding of programming fundamentals as well as a thoughtful problem solving approach and combines it with a clear love for helping people improve their skills. With Jakub's help, I went from a frustrated beginner struggling with Clojure and Fulcro basics to feeling right at home at the REPL and confident enough to contribute to Fulcro issues and community documentation.
+> 
+> While Fulcro's founder, Tony Kay, has provided a comprehensive suite of videos and documentation, learning Fulcro can still be a daunting task for beginners. Having Jakub in your corner is like having your own Fulcro "strategy guide". Jakub helped me make immediate progress on my projects while introducing me to important parts of the bigger picture so I could continue the journey on my own.
+> 
+> After every one of our sessions together, I come away with workflow tips and Clojure insights that I can put to use in my own code right away. I could not be happier with the coaching I've received from Jakub. In addition to being a great mentor Jakub is also a wonderful human being. Many thanks Jakub!
+
 ### Teaching
 
 I can help your group, team, or company get better at Fulcro. I can for example facilitate the workshop [Introduction to creating webapps with Fulcro](https://github.com/holyjak/fulcro-intro-wshop) for a reasonable compensation. If you are interested then [get in touch](https://blog.jakubholy.net/contact/).
